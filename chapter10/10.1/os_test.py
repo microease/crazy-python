@@ -1,6 +1,8 @@
 # coding:utf-8
-# File Name：     10.1
+# File Name：     os_test
 # Description :
 # Author :       micro
 # Date：          2019/12/16
-import 
+import os
+print(os.name)
+print(os.cpu_count())
